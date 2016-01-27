@@ -15,4 +15,4 @@ Example REST microservice built with spring boot
 
 ## License
 
-Demo Service is released under the [MIT License](http://www.opensource.org/licenses/MIT).
+Released under the [MIT License](http://www.opensource.org/licenses/MIT).
