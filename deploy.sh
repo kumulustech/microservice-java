@@ -23,4 +23,4 @@ wget http://192.241.247.252/nexus/service/local/repositories/releases/content/co
 echo "starting up microservice-$VERSION.jar"
 nohup java -jar microservice-*.jar >/dev/null 2>&1 &
 
-echo delpoyed version: microservice-$VERSION.jar PID $!
+echo deployed version: microservice-$VERSION.jar PID $!
