@@ -1,4 +1,4 @@
-package com.demo;
+package com.kumulus;
 
 public class Item {
     private String name;

@@ -1,4 +1,4 @@
-package com.demo
+package com.kumulus
 
 import groovyx.net.http.RESTClient
 import spock.lang.Specification

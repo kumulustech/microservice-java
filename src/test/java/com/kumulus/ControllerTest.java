@@ -1,4 +1,4 @@
-package com.demo;
+package com.kumulus;
 
 import org.junit.Test;
 

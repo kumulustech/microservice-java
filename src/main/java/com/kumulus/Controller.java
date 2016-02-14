@@ -1,4 +1,4 @@
-package com.demo;
+package com.kumulus;
 
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.bind.annotation.RequestMapping;
